@@ -4,7 +4,7 @@
     + [Data downloaden](#data)
     + [Research focus: wat ga ik onderzoeken?](#focus)
 + [Grip met grep: zoeken in data met behulp van reguliere expressies](#grep)
-    + [Command Line: interactie via commando's](#grep-command-line)
+    + [Command Line: interactie via commando's](#grep-jupyter)
 + [Overzicht van varianten en contexten voor specifieke woorden en frases](#grep-words)
     + [Zoeken met woordensets](#grep-word-sets)
 
@@ -73,7 +73,7 @@ De volgende handige [`grep` cheat sheet](http://www.ericagamet.com/wp-content/up
 
 **Let op: de oefeningen worden al heel snel heel complex. Dit is puur om te laten zien wat mogelijk is, en waarom dit nuttig kan zijn. De syntax is cryptisch en exotisch en vergt veel oefening om het je eigen te maken. Als je het nuttig vindt kun je er dus meer tijd in steken en wordt de systematiek al snel duidelijk. Als je hier niet zelf mee aan de slag wil, is het in ieder geval nuttig om te zien hoe het werkt, wat er mogelijk is, en waar potentiele problemen in de data een rol spelen.**
 
-<a name="grep-command-line"></a>
+<a name="grep-jupyter"></a>
 ### Jupyter notebooks: interactie via commando's
 
 Een Jupyter notebook is een alternatieve manier om te interacteren met de computer. I.p.v. opdrachten geven door met de muis te klikken op knopen en menubalken, geef je via een notebook opdrachten d.m.v. tekstuele commando's. Alhoewel dit voor veel mensen wennen is aan ongebruikelijke notatie en de onverbiddelijke precisie die vereist is, heeft het ook een aantal voordelen:

@@ -4,6 +4,6 @@ Om te zorgen dat deelnemers tijdens de workshop hun tijd zo nuttig mogelijk best
 
 Neem je eigen laptop mee, zorg dat je installatierechten hebt. Neem ook een USB mee met tenminste 1Gb aan schijfruimte, zodat je de portable applicaties er op kunt zetten.
 
-[Een overzicht van de tools](tools.md) die we gebruiken, en wat optionele tools voor wie verder wil experimenteren. 
+[Een overzicht van de tools](tools.md) die je kunt gebruiken, en wat optionele tools voor wie verder wil experimenteren. 
 
 
