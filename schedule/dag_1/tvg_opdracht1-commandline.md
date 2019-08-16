@@ -24,7 +24,7 @@ Met deze opdracht ontwikkel je de volgende vaardigheden:
 
 De TvG Dataset is groot en beperkt gestructureerd. Er liggen talloze inzichten verborgen in de 121 jaargangen, maar de bestaande structuur geeft weinig handvatten om die inzichten naar voren te halen. Hoe kun je van deze brondata een data scope creeeren die verschillende perspectieven op het TvG corpus biedt waarmee je op een transparante manier tot nieuwe inzichten komt?
 
-**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1R8Rex2v0YwfWhW8omEp0esqBkdX_Ymhr) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
+**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur het Jupyter notebook of een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1R8Rex2v0YwfWhW8omEp0esqBkdX_Ymhr) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
 
 <a name="data"></a>
 ### Data downloaden
@@ -76,12 +76,12 @@ Eerst wat uitleg over de *command line* en hoe je navigeert naar verschillende m
 
 De volgende handige [`grep` cheat sheet](http://www.ericagamet.com/wp-content/uploads/2016/04/Erica-Gamets-GREP-Cheat-Sheet.pdf) geeft een overzicht van alle opties, parameters en patronen je kunt gebruiken in `grep`. Dit is vooral handig als je eenmaal op weg met onderstaande oefeningen en verschillende opties en concepten hebt leren kennen.
 
-**Let op: de oefeningen worden al heel snel heel complex. Dit is puur om te laten zien wat mogelijk is, en waarom dit nuttig kan zijn. De syntax is cryptisch en exotisch en vergt veel oefening om het eigen te maken. Als je het nuttig vindt kun je er dus meer tijd in steken en wordt de systematiek al snel duidelijk. Als je hier niet zelf mee aan de slag wil, is het in ieder geval nuttig om te zien hoe het werkt, wat er mogelijk is, en waar potentiele problemen in de data een rol spelen.**
+**Let op: de oefeningen worden al heel snel heel complex. Dit is puur om te laten zien wat mogelijk is, en waarom dit nuttig kan zijn. De syntax is cryptisch en exotisch en vergt veel oefening om het je eigen te maken. Als je het nuttig vindt kun je er dus meer tijd in steken en wordt de systematiek al snel duidelijk. Als je hier niet zelf mee aan de slag wil, is het in ieder geval nuttig om te zien hoe het werkt, wat er mogelijk is, en waar potentiele problemen in de data een rol spelen.**
 
 <a name="grep-command-line"></a>
 ### Command line: interactie via commando's
 
-De command line is een alternatieve manier om te interacteren met de computer. I.p.v. opdrachten geven met de muis, geef je via de command line opdrachten d.m.v. commando's. Alhoewel dit voor veel mensen wennen is aan ongebruikelijke notatie en de onverbiddelijke precisie die vereist is, heeft het ook een aantal voordelen:
+De command line is een alternatieve manier om te interacteren met de computer. I.p.v. opdrachten geven met de muis, geef je via de command line opdrachten d.m.v. tekstuele commando's. Alhoewel dit voor veel mensen wennen is aan ongebruikelijke notatie en de onverbiddelijke precisie die vereist is, heeft het ook een aantal voordelen:
 
 + complexe commando's: het is mogelijk om commando's samen te stellen zodat in 1 regel meerdere opdrachten worden gegeven die achter elkaar worden uitgevoerd.
 + herhaalbaarheid: uitgevoerde opdrachten worden bewaard waardoor je makkelijk eerdere commando's nog een keer kunt uitvoeren. Dit is vooral handig voor complexe commando's of wanneer je een opdracht wilt herhalen met een kleine wijziging.
@@ -258,7 +258,7 @@ Reguliere expressies bieden ook een mogelijkheid om meerdere opties van patronen
 grep -E -o -w -i "\w*(overheid|regering|kabinet)\w*" tvg_data/tvg_111/*.txt | sort | uniq -c
 ```
 
-In oudere teksten kom je vaak dubbele klinkers tegen, zoals in *regeering*. Als je zoekt in TvG editie 49, kun je ook *regeering* toevoegen:
+In oudere teksten kom je vaak dubbele klinkers tegen, zoals in *regeering*. Als je zoekt in TvG editie 49 (jaargang van 1934), kun je ook *regeering* toevoegen:
 
 ```bash
 grep -E -o -w -i "\w*(overheid|regeering|regering|kabinet)\w*" tvg_data/tvg_49/*.txt | sort | uniq -c
