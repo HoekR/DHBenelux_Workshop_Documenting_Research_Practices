@@ -5,14 +5,15 @@ permalink: /admin/
 
 ## Tijden en locatie
 
-De workshop vindt plaats in het Oost-Indisch Huis, zaal A0.03, van 11:00 tot 16:30. 
+De workshop vindt plaats in het Oost-Indisch Huis, zaal B3.02 (NIAS zoldeR), van 11:00 tot 16:30. 
 
-Elke dag bestaat uit twee sessies, van 11:00 tot 13:00 en van 13:30 tot 16:30. Lunch wordt verzorgd. 
-
+Elke dag bestaat uit twee sessies, van 11:00 tot 12:30 en van 13:30 tot 16:30.
 ## Voorbereiding
 
 Om te zorgen dat deelnemers tijdens de workshop hun tijd zo nuttig mogelijk besteden vragen we iedereen om een aantal zaken voor te bereiden.
 
-Neem je eigen laptop mee, zorg dat je installatierechten hebt. Neem ook een USB mee met tenminste 1Gb aan schijfruimte, zodat je de portable applicaties er op kunt zetten.
+Neem je eigen laptop mee. We werken voor een deel van de opdrachten in een online omgeving binnen het HuC.
 
-* [Tools](tools.md): Een overzicht van de tools die we gebruiken
+Voor andere opdrachten dien je Open Refine te gebruiken op je eigen laptop. Zorg dat je installatierechten hebt. 
+
+* [Tools](tools.md): Als je alle opdrachten op je eigen laptop wilt uitvoeren, is hier een overzicht van de tools die je kunt gebruiken.
