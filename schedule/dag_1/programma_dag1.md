@@ -33,22 +33,22 @@ Vandaag:
 + 11:30-12:00 Data Scopes achtergrond
 + 12:00-13:00 Hands-on sessie 1: greppen in TvG data
 + 13:00-13:30 Lunch
-+ 13:30-15:30 Hands-on sessie 2: Frequentielijsten, namen en temporele expressies
-+ 15:30-16:30 Bespreken van bevindingen, reflectie op Data Scopes
++ 14:00-16:00 Hands-on sessie 2: Frequentielijsten, namen en temporele expressies
++ 16:00-16:30 Bespreken van bevindingen, reflectie op Data Scopes
 
-Rest van de week:
+Rest van de maand:
 
-- 17-04:
+- 09-09:
     - ochtend: TvG, structureren ongestructureerde data
     - middag: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
     - avond: borrel en diner (op de Nes, e.g. Brakke Grond of Mappa)
-- 18-04:
+- 16-09:
     - ochtend: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
     - middag: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
-- 19-04:
+- 23-09:
     - ochtend: Biografisch Portaal
     - middag: Biografisch Portaal
-- 20-04:
+- 30-09:
     - ochtend: Biografisch Portaal
     - middag: Pot luck, samenvatten bevindingen
 
