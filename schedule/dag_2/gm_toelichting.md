@@ -1,6 +1,10 @@
-# Data Scopes workshop - opdrachten Generale Missiven
+## Toelichting opdrachten Generale Missiven
 
-## Beschrijving van de bestanden voor de Generale Missiven opdracht
+[Terug naar programma dag 2](README.md)
+
+[Terug naar opdracht Generale Missiven](gm_opdracht.md)
+
+### Beschrijving van de bestanden voor de Generale Missiven opdracht
 
 De opdracht werkt met geselecteerde delen uit de generale missiven. Het gaat om de de indices van de vier uitgegeven delen (8 (RGP GS 193, 1725-1729), 11 (RGP GS 232, 1743-1750), 12 (RGP GS 257, 1750-1755) en 13 (RGP GS 258, 1756-1761).
 

@@ -34,5 +34,5 @@ For those who want to work with more advanced tools:
 - Natural Language Processing:
     - [NLTK](http://www.nltk.org/) or [Pattern](https://www.clips.uantwerpen.be/pattern) Python modules for Part-Of-Speech tagging, Named Entity Recognition, Sentiment Analysis
 - Structured data handling in Python
-    - [pandas] (https://pandas.pydata.org/) many advanced data handling options, with a somewhat quirky api
+    - [pandas](https://pandas.pydata.org/) many advanced data handling options, with a somewhat quirky api
     - [SciPy](https://www.scipy.org/) for even more advanced data handling and processing

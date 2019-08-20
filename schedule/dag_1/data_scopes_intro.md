@@ -114,7 +114,6 @@
 - ... and lots of discussion
     - Choices that one collaborator makes should be visible to the rest
 
-#
 
-[Back to main program](programma_dag1.md)
+[Back to main program](programma_dag1.md#)
 

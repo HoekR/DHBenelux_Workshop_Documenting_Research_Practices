@@ -1,5 +1,12 @@
 # Workshop Data Scopes
 
++ [Doel workshop](#goals)
++ [Opzet workshop](#setup)
++ [Programma](#program)
++ [Introducie Data Scopes](#background)
++ [Deelnemers](#participants)
++ [Opdracht 1](#assignment)
+
 Coherente methoden voor onderzoek met heterogene digitale bronnen
 
 - Data scope: bijeen brengen van verschillende materialen en ze zodanig opschonen, aanvullen en verbinden zodat je bepaalde analyses kunt doen
@@ -7,6 +14,7 @@ Coherente methoden voor onderzoek met heterogene digitale bronnen
     - Weinig begrip van hoe dit proces eruit ziet en hoe het vervolgstappen (e.g. analyse) beinvloed
     - Vaak onterecht gezien als voorbereiding op het "echte" onderzoek
 
+<a name="goals"></a>
 ## Doel workshop
 
 Het doel is onderzoekers zich bewust te laten worden van de verschillende aspecten van de omgang met grootschalige data. Met data scopes willen we het volgende bereiken:
@@ -16,6 +24,7 @@ Het doel is onderzoekers zich bewust te laten worden van de verschillende aspect
 - **Methodologische discussie**: consolideren van digitale methoden om te komen tot coherente en breed gedragen onderzoeksmethodologieën
 - **Ontwikkelen van samenwerkingsvorm**: data bijeenbrengen, opschonen en koppelen vergt veel kennis, zowel technisch als inhoudelijk. Een goede manier om samen te werken en kennis te delen is essentieel.
 
+<a name="setup"></a>
 ## Opzet workshop
 
 + **Tutorial**: uitleg Data scopes concepten
@@ -24,6 +33,7 @@ Het doel is onderzoekers zich bewust te laten worden van de verschillende aspect
     + **zen**: het wordt een zootje, alles gaat mis, maar dat hoort erbij en alles komt ook weer goed
 + **Discussie**: vergelijken van groepsopdrachten, reflectie op Data scopes als handvat voor onderzoeksproces
 
+<a name="program"></a>
 ## Programma
 
 
@@ -51,10 +61,12 @@ Rest van de maand:
     - ochtend: werken met eigen data
     - middag: bespreken van eigen werk, extra onderwerpen, discussie en evaluatie
 
+<a name="background"></a>
 ## Introductie Data Scopes
 
 [Data Scopes achtergrond](data_scopes_intro.md)
 
+<a name="participants"></a>
 ## Deelnemers
 
 - Wat is je achtergrond? Wat is je ervaring met digitale methoden in onderzoek/data ontsluiting?
@@ -62,7 +74,8 @@ Rest van de maand:
 - Waarom doe je mee? Wat zijn je verwachtingen?
 
 
-## Deel 1
+<a name="assignment"></a>
+## Opdracht 1
 
 - vaardigheden:
     - grip krijgen op grote tekstbestanden met grotendeels onbekende inhoud en grote variatie
