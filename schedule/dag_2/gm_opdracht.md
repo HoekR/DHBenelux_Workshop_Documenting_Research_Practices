@@ -1,5 +1,9 @@
 ## Opdracht voor ontdubbelen (disambiguatie) van namen
 
+[Terug naar programma dag 2](README.md)
+
+[Naar Generale Missiven opdracht 2](gm_opdracht2.md)
+
 + [Introductie](#intro)
     + [Data](#data)
 + [Opdracht](#opdracht)
@@ -61,3 +65,7 @@ Zijn plaatsnamen tot regio’s te herleiden?
 + Het belang van context voor disambiguëren en de moeilijkheden daarvan. Bij registers al moeilijk - hoe gaat dat met NER?
 + Misschien moeten we ook de beperkingen van Open Refine en het belang van programmeervaardigheden laten zien in het manipuleren van data
 
+
+[Terug naar programma dag 2](README.md)
+
+[Naar Generale Missiven opdracht 2](gm_opdracht2.md)

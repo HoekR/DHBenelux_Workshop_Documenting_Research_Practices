@@ -1,8 +1,10 @@
-## Toelichting opdrachten Generale Missiven
+## Toelichting Generale Missiven Data
 
 [Terug naar programma dag 2](README.md)
 
-[Terug naar opdracht Generale Missiven](gm_opdracht.md)
+[Terug naar Generale Missiven opdracht 1](gm_opdracht.md)
+
+[Terug naar Generale Missiven opdracht 2](gm_opdracht2.md)
 
 ### Beschrijving van de bestanden voor de Generale Missiven opdracht
 
@@ -81,3 +83,9 @@ aangevuld met
 **Genormaliseerde bestanden**:
 
 De bestanden zijn dezelfde als in de **Bewerkte bestanden** directory, maar nu zijn de paginanummers opgeschoond (extra comma's en spaties zijn verwijderd, punten als scheidingstekens zijn vervangen door comma's) en reeksen zijn uitgeschreven (dus i.p.v. bijvoorbeeld *192-194* als reeks, zijn nu de drie paginanummers *192, 193, 194* volledig uitgeschreven).
+
+[Terug naar programma dag 2](README.md)
+
+[Terug naar Generale Missiven opdracht 1](gm_opdracht.md)
+
+[Terug naar Generale Missiven opdracht 2](gm_opdracht2.md)

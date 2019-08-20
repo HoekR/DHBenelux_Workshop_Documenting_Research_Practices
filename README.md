@@ -2,7 +2,9 @@
 permalink: /
 ---
 
-# Workshop Data Scopes - Methoden voor omgang met digitale data in humanities onderzoekspraktijk
+# Workshop Data Scopes
+
+### Methoden voor omgang met digitale data in humanities onderzoekspraktijk
 
 Data Scopes zijn een concept voor de omgang met samengestelde data in een humanities context. Met data scopes willen we bijdragen aan methodologische reflectie op en consolidatie van de verzameling methoden die door velen in de menswetenschappen (vaak in de vorm van tools) al worden gebruikt in aanvulling op de bestaande methoden. De workshop wordt georganiseerd door het KNAW Humanities Cluster.
 
