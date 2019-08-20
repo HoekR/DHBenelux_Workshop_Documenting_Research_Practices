@@ -2,6 +2,8 @@
 
 [Terug naar programma dag 2](README.md)
 
+[Naar toelichting Generale Missiven Data](gm_toelichting.md)
+
 [Terug naar Generale Missiven opdracht 1](gm_opdracht.md)
 
 + [Introductie](#intro)
