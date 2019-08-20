@@ -53,26 +53,29 @@ Locatie:
 
 De workshop bestaat iedere dag uit een inleiding en twee praktische sessies waarin de deelnemers zelf aan het werk gaan. We eindigen steeds met een discussie over hoe deze handelingen in de onderzoekspraktijk passen en interpretatie beïnvloeden. Hieronder een korte opsomming per dag en wat je er leert.
 
-1. Trends uit een groot tekstcorpus. Dag 1 en 2
-+ Corpus Tijdschrift voor Geschiedenis
+1. Inleiding Data Scopes en Patronen zoeken in een groot tekstcorpus (2 september).
++ Corpus Tijdschrift voor Geschiedenis (alternatieven: boekrecensies, resoluties Staten Generaal)
 + Vaardigheden:
     + grip krijgen op grote tekstbestanden met grotendeels onbekende inhoud en grote variatie
     + mogelijkheden om patronen te ontdekken
     + gestructureerd omgaan met ongestructureerde data
-2. 'Metadata' en toegang tot een grootschalige tekstuele bron dag 2/3
+2. 'Metadata' en toegang tot een grootschalige tekstuele bron (9 september).
 + Corpus Generale Missiven VOC
 + Vaardigheden:
     + Gebruik van bestaande indices voor ontsluiten van serie tekstuele bronnen
     + Disambigueren van geografische en persoonsnamen
     + Linken van data uit verschillende bronnen
-3. Serieel gebruik van samengestelde kwalitatieve bronnen voor structurele vragen. Dag 4/5
+3. Serieel gebruik van samengestelde kwalitatieve bronnen voor structurele vragen (16 september).
 + Corpus Biografisch portaal
 + Vaardigheden:
     + Data selectie
     + Data structurering
     + Segmentatie en stapsgewijze aanpak
+4. Werken met eigen data (16 t/m 30 september).
++ Toepassen van data scopes concepten en vaardigheden op eigen datasets.
++ Bespreken van ideeen, plannen en problemen voor bewerking en bevraging van eigen data.
 
-Op dag 5 is er gelegenheid voor uitloop of om terug te komen op eerdere onderwerpen.
+Elke week is er ruimte om eigen ideeen te bespreken, terug te komen op eerdere onderwerpen en aanvullende onderwerpen te belichten.
 
 
 ## Instructors

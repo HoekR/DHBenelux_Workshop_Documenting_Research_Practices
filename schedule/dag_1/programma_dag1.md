@@ -39,31 +39,43 @@ Vandaag:
 Rest van de maand:
 
 - 09-09:
-    - ochtend: TvG, structureren ongestructureerde data
-    - middag: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
-    - avond: borrel en diner (op de Nes, e.g. Brakke Grond of Mappa)
-- 16-09:
     - ochtend: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
     - middag: Generale Missiven, vergelijken indices, linken en classificeren van trefwoorden
+- 16-09:
+    - ochtend: Biografisch Portaal
+    - middag: werken met eigen data
 - 23-09:
-    - ochtend: Biografisch Portaal
-    - middag: Biografisch Portaal
+    - ochtend: werken met eigen data
+    - middag: werken met eigen data
 - 30-09:
-    - ochtend: Biografisch Portaal
-    - middag: Pot luck, samenvatten bevindingen
+    - ochtend: werken met eigen data
+    - middag: bespreken van eigen werk, extra onderwerpen, discussie en evaluatie
+
+## Introductie Data Scopes
+
+[Data Scopes achtergrond](data_scopes_intro.md)
 
 ## Deelnemers
 
 - Wat is je achtergrond? Wat is je ervaring met digitale methoden in onderzoek/data ontsluiting?
+- Wat voor data gebruik je? Wat wil je ermee? Wat zijn eigenschappen?
 - Waarom doe je mee? Wat zijn je verwachtingen?
 
 
 ## Deel 1
+
 - vaardigheden:
     - grip krijgen op grote tekstbestanden met grotendeels onbekende inhoud en grote variatie
     - mogelijkheden om patronen te ontdekken
     - gestructureerd omgaan met ongestructureerde data
 - Corpus: Tijdschrift voor Geschiedenis
+- Voorbereidende stappen:
+  - Open in een nieuw venster/tab en ga naar de [HuC Jupyter Hub](https://jupyterhub.diginfra.net) omgeving.
+  - Login met je gebruikersnaam.
+  - In het volgende scherm, klik rechtsboven op `New` en kies de optie `Terminal`. Dit opent een nieuwe browser tab met daarin een terminal window waarin je commando's kunt typen. 
+  - Klik in het terminal scherm om de cursor te activeren en voer het volgende commando in: `/data/data_scopes_2019/setup_workshop_env.sh` (het is het makkelijkst om dit te knippen en plakken, want een typefout is snel gemaakt).
+  - Klik rechtsboven op `Control Panel` en kies vervolgens voor `My Server`.
+  - Je ziet nu als het goed is een lijst met bestanden waaronder `Data-Scopes-2019-Dag-1-Deel-1.ipynb`. Klik deze aan om de eerste opdracht te openen.
 
 
 ## Tijdschrift voor Geschiedenis (TvG)
@@ -88,7 +100,7 @@ Rest van de maand:
     - pipelines voor ketens van stappen
 
 
-## Reguliere expressies 
+## Reguliere expressies
     - CTRL-F on steroids
     - voor patronen herkennen en transformeren
 

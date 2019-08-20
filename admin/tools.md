@@ -1,5 +1,6 @@
 ## Tools:
 
+- [Jupyter notebooks](https://jupyter.org/): we will use an online environment setup within the Humanities Cluster network.
 - UNIX Command line tools
     - Windows users: use [Git Bash](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/PortableGit-2.16.2-64-bit.7z.exe) (portable version)
     - Mac users: use Terminal (comes pre-installed) or [iTerm2](https://iterm2.com/)
@@ -16,7 +17,7 @@
 - [Voyant Tools](https://voyant-tools.org/) *no installation needed*
     - online text analysis tool, *note that this requires uploading your data to the web*
     - for user-friendly exploration of texts
-- [Palladio] (http://hdlab.stanford.edu/palladio-app/) *no installation needed*
+- [Palladio](http://hdlab.stanford.edu/palladio-app/) *no installation needed*
     - online (optionally) historical visualisation tool bij csv/json input
     - for maps (you need to provide coordinates in csv)
     - for networks and some other visualisations
