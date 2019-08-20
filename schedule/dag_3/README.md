@@ -7,4 +7,3 @@
     + [Gezamenlijk Google Document](https://docs.google.com/document/d/1GR4o1FG6pmbyQaDH_ZzPQRUBGjZknBZSB_13TVE22Pw/edit#) voor aantekeningen
     + [Gezamenlijke Google Drive folder voor materialen](https://drive.google.com/drive/folders/1RCD5rwgEXA_8lKACqAn16yv2FUTztWKO?usp=sharing)
 
-+ [toelichting bij de Generale Missiven data](gm_toelichting.md)
