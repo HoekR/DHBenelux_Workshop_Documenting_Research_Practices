@@ -88,9 +88,10 @@ Rest van de maand:
   - In het volgende scherm, klik rechtsboven op `New` en kies de optie `Terminal`. Dit opent een nieuwe browser tab met daarin een terminal window waarin je commando's kunt typen. 
   - Klik in het terminal scherm om de cursor te activeren en voer het volgende commando in: `/data/data_scopes_2019/setup_workshop_env.sh` (het is het makkelijkst om dit te knippen en plakken, want een typefout is snel gemaakt).
   - Klik rechtsboven op `Control Panel` en kies vervolgens voor `My Server`.
-  - Je ziet nu als het goed is een lijst met bestanden waaronder `Data-Scopes-2019-Dag-1-Deel-1.ipynb`. Klik deze aan om de eerste opdracht te openen.
+  - Je ziet nu als het goed is een item met de naam `data_scopes_2019`. Als je dat aanklikt krijg je een lijst met bestanden te zien, waaronder `Data-Scopes-2019-Dag-1-Deel-1.ipynb`. Klik deze aan om de eerste opdracht te openen.
 
 
+<a name="dataset"></a>
 ## Tijdschrift voor Geschiedenis (TvG)
 
 - [Retrodigitalisering TvG](http://resources.huygens.knaw.nl/retroboeken/tvg/) online beschikbaar
