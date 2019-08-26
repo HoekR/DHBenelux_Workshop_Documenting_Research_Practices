@@ -50,8 +50,8 @@ Het programma is niet opgehangen aan tools, al gebruiken we die natuurlijk wel. 
 Datum: 2, 9, 16, 23 en 30 September (11:00-16:30)
 Locatie: 
 
-- Spinhuis 2.18 (2 en 9 September)
-- OIH NIAS zolder (16, 23 en 30 September)
+- Spinhuis 2.18 (2 September)
+- OIH NIAS zolder (9, 16, 23 en 30 September)
 
 De workshop bestaat iedere dag uit een inleiding en twee praktische sessies waarin de deelnemers zelf aan het werk gaan. We eindigen steeds met een discussie over hoe deze handelingen in de onderzoekspraktijk passen en interpretatie beïnvloeden. Hieronder een korte opsomming per dag en wat je er leert.
 
