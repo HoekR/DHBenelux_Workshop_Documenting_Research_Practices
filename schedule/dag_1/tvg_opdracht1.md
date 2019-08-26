@@ -24,7 +24,7 @@ Met deze opdracht ontwikkel je de volgende vaardigheden:
 
 De TvG Dataset is groot en beperkt gestructureerd. Er liggen talloze inzichten verborgen in de 121 jaargangen, maar de bestaande structuur geeft weinig handvatten om die inzichten naar voren te halen. Hoe kun je van deze brondata een data scope creeeren die verschillende perspectieven op het TvG corpus biedt waarmee je op een transparante manier tot nieuwe inzichten komt?
 
-**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur het Jupyter notebook of een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1R8Rex2v0YwfWhW8omEp0esqBkdX_Ymhr) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
+**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur het Jupyter notebook of een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1RCD5rwgEXA_8lKACqAn16yv2FUTztWKO) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
 
 <a name="tool"></a>
 ### Welke tool ga ik gebruiken?

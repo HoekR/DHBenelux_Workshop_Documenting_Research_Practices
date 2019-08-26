@@ -10,7 +10,7 @@ Eerdere delen TvG opdracht:
 + [Link naar deel 1 van de TvG opdracht](tvg_opdracht1.md)
 + [Link naar deel 2 van de TvG opdracht](tvg_opdracht2.md)
 
-**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1R8Rex2v0YwfWhW8omEp0esqBkdX_Ymhr) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
+**Open een document voor het bijhouden van data interacties om tot data scope te komen en overwegingen daarbij.** Gebruik bij voorkeur een nieuw Google Doc in de [workshop drive folder](https://drive.google.com/drive/folders/1RCD5rwgEXA_8lKACqAn16yv2FUTztWKO) op Google Drive, zodat alle aantekeningen bij elkaar staan zodat we die aan het eind de dag makkelijk kunnen vergelijken. 
 
 <a name="intro-indices"></a>
 ## Introductie
