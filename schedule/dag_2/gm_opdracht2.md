@@ -43,7 +43,6 @@ _Bepaal aan de hand van de beschikbare registers of een samenhangende toegang to
 
 Veel van de namen en zaaktrefwoorden komen maar een of een paar keer voor. Het is erg lastig om over deze trefwoorden iets te kunnen zeggen zonder close reading van de tekst. Als je deze trefwoorden kunt groeperen, e.g. alle personen die *koopman* zijn kunt classificeren als *koopmannen*, kun je beter inzicht krijgen in wie al die personen waren, met wat voor zaken zij te maken hadden, en welke geografische locaties daarbij horen.
 
-![Image doesn't load](http://resources.huygens.knaw.nl/retroapp/service_generalemissiven/gm_10/images/generale_missiven_gs250_1114.jpg)
 ![Image doesn't load](../../images/generale_missiven_gs250_1114.jpg)
 
 Bijvoorbeeld, de naam `Pieter Visscher` komt slechts voor op pagina 632 van Generale Missiven deel 10. Je kunt proberen deze naam te koppelen aan zaken en geografische locaties die ook op pagina 632 voorkomen, maar dat is niet erg betekenisvol, want er zijn zeer veel trefwoorden gekoppeld aan pagina 632:
@@ -134,7 +133,7 @@ zaken : Oogijzer
 
 Nuttiger is om via de tekst te achterhalen waarom Pieter Visscher genoemd is:
 
-![Image doesn't load](http://resources.huygens.knaw.nl/retroapp/service_generalemissiven/gm_10/images/generale_missiven_gs250_0632.jpg)
+![Image doesn't load](../../images/generale_missiven_gs250_0632.jpg)
 
 Je ziet dat het voorkomen van de naam `Pieter Visscher` vooraf wordt gegaan door zijn beroep.
 
