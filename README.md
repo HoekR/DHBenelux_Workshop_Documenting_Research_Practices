@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-# Workshop Data Scopes
+## Workshop Data Scopes
 
 ### Methoden voor omgang met digitale data in humanities onderzoekspraktijk
 
