@@ -22,9 +22,11 @@ Daarvoor moet je data opschonen, ontdubbelen en verrijken.
 We hebben de beschikking over de registers van de gedrukte delen missiven. Voor de opdracht hebben we er een paar geselecteerd. Zie de [toelichting bij de data](gm_toelichting.md).
 
 <a name="data"></a>
-### Dataset: Geselecteerde delen Generale missiven. Zie ook de [toelichting](gm_toelichting.md)
+### Dataset: Geselecteerde delen Generale missiven. 
 
-De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/OjzD8hZlVvDU12c) zijn als gezipt bestand te downloaden. Er is ook een [tekstbestand van Generale Missiven deel 13](../dag_3/GM_hoofdtekst_deel13.txt). **Blijkbaar zijn de indexen met label 13 stiekem de indexen van deel 10. Hierbij een [zip met tekstbestanden per pagina van deel 10](../dag_3/GM_deel_10_tekst.zip).**
+De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/nvirD1LKBvwI5vv) zijn als gezipt bestand te downloaden. Er is ook een [tekstbestand van Generale Missiven deel 13](../dag_3/GM_hoofdtekst_deel13.txt). **Blijkbaar zijn de indexen met label 13 stiekem de indexen van deel 10. Hierbij een [zip met tekstbestanden per pagina van deel 10](../dag_3/GM_deel_10_tekst.zip).**
+
+Zie ook de [toelichting](gm_toelichting.md)
 
 
 <a href="opdracht"></a>

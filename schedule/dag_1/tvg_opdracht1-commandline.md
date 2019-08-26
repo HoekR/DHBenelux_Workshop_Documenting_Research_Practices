@@ -29,7 +29,7 @@ De TvG Dataset is groot en beperkt gestructureerd. Er liggen talloze inzichten v
 <a name="data"></a>
 ### Data downloaden
 
-+ Je kunt het [hele TvG corpus als een zip bestand](https://surfdrive.surf.nl/files/index.php/s/MqRVCbAYpQBeEjO) downloaden.
++ Je kunt het [hele TvG corpus als een zip bestand](https://surfdrive.surf.nl/files/remote.php/webdav/Workshops/Data-Scopes-2019/tvg_all_editions.zip) downloaden.
 + Waar staat mijn data?
 + Hoe kan ik met command line tools bij mijn data?
     + commando's worden uitgevoerd vanuit een working directory (folder)

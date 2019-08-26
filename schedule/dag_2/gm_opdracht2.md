@@ -21,9 +21,11 @@ Met deze opdracht krijg je inzicht in de mogelijkheden om trefwoorden uit versch
 We hebben de beschikking over de registers van de gedrukte delen missiven. Voor de opdracht hebben we er een paar geselecteerd. Zie de [toelichting bij de data](gm_toelichting.md).
 
 <a name="data"></a>
-### Dataset: Geselecteerde delen Generale missiven. Zie ook de [toelichting](gm_toelichting.md)
+### Dataset: Geselecteerde delen Generale missiven.
 
-De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/OjzD8hZlVvDU12c) zijn als gezipt bestand te downloaden. Blijkbaar zijn de indexen met label 13 stiekem de indexen van deel 10. Hierbij een [zip met tekstbestanden per pagina van deel 10](GM_deel_10_tekst.zip).
+De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/nvirD1LKBvwI5vv) zijn als gezipt bestand te downloaden. Blijkbaar zijn de indexen met label 13 stiekem de indexen van deel 10. Hierbij een [zip met tekstbestanden per pagina van deel 10](GM_deel_10_tekst.zip).
+
+Zie ook de [toelichting](gm_toelichting.md)
 
 
 <a href="opdracht"></a>
@@ -42,6 +44,7 @@ _Bepaal aan de hand van de beschikbare registers of een samenhangende toegang to
 Veel van de namen en zaaktrefwoorden komen maar een of een paar keer voor. Het is erg lastig om over deze trefwoorden iets te kunnen zeggen zonder close reading van de tekst. Als je deze trefwoorden kunt groeperen, e.g. alle personen die *koopman* zijn kunt classificeren als *koopmannen*, kun je beter inzicht krijgen in wie al die personen waren, met wat voor zaken zij te maken hadden, en welke geografische locaties daarbij horen.
 
 ![Image doesn't load](http://resources.huygens.knaw.nl/retroapp/service_generalemissiven/gm_10/images/generale_missiven_gs250_1114.jpg)
+![Image doesn't load](../../images/generale_missiven_gs250_1114.jpg)
 
 Bijvoorbeeld, de naam `Pieter Visscher` komt slechts voor op pagina 632 van Generale Missiven deel 10. Je kunt proberen deze naam te koppelen aan zaken en geografische locaties die ook op pagina 632 voorkomen, maar dat is niet erg betekenisvol, want er zijn zeer veel trefwoorden gekoppeld aan pagina 632:
 

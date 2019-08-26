@@ -39,7 +39,7 @@ Om de opdrachten uit te voeren dien je in te loggen op de [Jupyter Hub](https://
 <a name="data"></a>
 ### Data downloaden
 
-+ Je kunt het [hele TvG corpus als een zip bestand](https://surfdrive.surf.nl/files/index.php/s/MqRVCbAYpQBeEjO) downloaden.
++ Je kunt het [hele TvG corpus als een zip bestand](https://surfdrive.surf.nl/files/remote.php/webdav/Workshops/Data-Scopes-2019/tvg_all_editions.zip) downloaden.
 + Waar staat mijn data?
 + Hoe kan ik met command line tools bij mijn data?
     + commando's worden uitgevoerd vanuit een working directory (folder)
