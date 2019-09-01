@@ -13,7 +13,7 @@ In general, there are not many data available about life expectancy before the s
 
 This leads to the _assignment_:
 
-    Make a overview in tables of the life expectancy of different groups of people from the dataset
+  - _Make a overview in tables of the life expectancy of different groups of people from the dataset_
 
 ## The dataset
 
@@ -28,9 +28,9 @@ For this workshop we propose the following steps for cleaning and processing the
 
 _Tools_:
 
-    - Open Refine (http://openrefine.org/),
-    - Spreadsheet (Excel, Libre Office, Google Spreadsheets),
-    - programmatic (e.g. Python Pandas (https://pandas.pydata.org/)).
+  - Open Refine (http://openrefine.org/),
+  - Spreadsheet (Excel, Libre Office, Google Spreadsheets),
+  - programmatic (e.g. Python Pandas (https://pandas.pydata.org/)).
 
 Use the tool you are most comfortable with, it should be able to import csv data and to make pivot tables.
 
@@ -40,10 +40,10 @@ The data are in csv format, and not completely usable as is
 
 _Cleaning_:
 
-    - convert (cast) numbers in text format to real numbers;
-    - convert datetime numbers to dates;
-    - remove nulls (this is optical, but distracting in visual inspection);
-    - import and check for import mistakes
+  - convert (cast) numbers in text format to real numbers;
+  - convert datetime numbers to dates;
+  - remove nulls (this is optical, but distracting in visual inspection);
+  - import and check for import mistakes
 
 
 
@@ -55,18 +55,18 @@ Select the data for further processing. The dataset does not contain complete da
 
 _decisions to make_
 
-    - which data do we need to make the assignment
-    - which alternative in dates do we choose
-    - how do we choose between a maximum number of persons or more precise data
+  - which data do we need to make the assignment
+  - which alternative in dates do we choose
+  - how do we choose between a maximum number of persons or more precise data
 
 
 ### Step 3 - Overview
 
 Make an overview of the data:
 
-    - make an extra column with ages
-    - use your (spreadsheet-like) tool to make pivot tables of your data on ages. This will take some data mangling as grouping the pivot tables will take some manual intervention. Also take into account that a resulting table should fit on a page or a screen and that you want to communicate with it!
-    - the data contain categories per person. Use these to make a more fine-grained overview.
+  - make an extra column with ages
+  - use your (spreadsheet-like) tool to make pivot tables of your data on ages. This will take some data mangling as grouping the pivot tables will take some manual intervention. Also take into account that a resulting table should fit on a page or a screen and that you want to communicate with it!
+  - the data contain categories per person. Use these to make a more fine-grained overview.
 
 _Issues_
 
@@ -80,6 +80,6 @@ Analyse the data. What conclusions can we draw with regards to the assignment?
 
 _Issues_
 
-    - what qualifications can we make regarding our conclusions - and can they still be considered valid
-    - are there any other conclusions to draw than the original research questions
-    - how representative are these data
+  - what qualifications can we make regarding our conclusions - and can they still be considered valid
+  - are there any other conclusions to draw than the original research questions
+  - how representative are these data
