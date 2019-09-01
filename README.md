@@ -2,87 +2,67 @@
 permalink: /
 ---
 
-## Workshop Data Scopes
+# Digital Humanities Benelux 2019.
 
-### Methoden voor omgang met digitale data in humanities onderzoekspraktijk
+## Workshop 1 - Documenting Research Practices in DH
 
-Data Scopes zijn een concept voor de omgang met samengestelde data in een humanities context. Met data scopes willen we bijdragen aan methodologische reflectie op en consolidatie van de verzameling methoden die door velen in de menswetenschappen (vaak in de vorm van tools) al worden gebruikt in aanvulling op de bestaande methoden. De workshop wordt georganiseerd door het KNAW Humanities Cluster.
+#### _Marijn Koolen, Rik Hoekstra, Andreas Fickers, Antske Fokkens, Jasmijn van Gorp and Jacco van Ossenbruggen_
 
-In de workshop besteden we aandacht aan de verschillende vormen van bewerking van geesteswetenschappelijk materiaal, en hoe deze zowel kennis en interpretatie van het materiaal vereisen als invloed hebben op de analyse en interpretatie verderop in het onderzoeksproces.
+## Workshop abstract
 
-De workshop duurt 5 dagen van 11:00 tot 16:30 uur en bestaat uit hands-on sessies waarin deelnemers in kleine groepen samenwerken aan het bewerken van kleine data sets. De volgende onderwerpen komen aan bod:
+### Background and Motivation
 
-+ Van bron naar data - omzetten van verschillende soorten bronnen naar computer bewerkbare gegevens.
-+ Modelleren - vormgeving van gegevens om antwoord te geven op onderzoeksvragen.
-+ Exploreren van data voor onderzoek - methoden van close reading, distant reading, analyse.
-+ Reduceren van complexiteit - gebruik van methoden en tools om overzicht en inzicht te krijgen in data.
+Digital humanities research is often a complex process involving many data interactions and transformations, leading towards insights and interpretations that are used to construct arguments and narratives. But scholarly communication in the humanities tends to leave out much of this process and focuses on the narrative, with references to sources and software that were used in the analysis. There is a growing concern in DH communities that research processes are not described in sufficient detail to assess how these processes change the nature of the data and how they affect interpretations and their use in argumentation.
 
-We onderscheiden vijf verschillende activiteiten in het onderzoek met data scopes: modelleren, selecteren, normaliseren, linken en categoriseren van data. Elke dag richten we ons op één of twee van deze thema’s, maar alle activiteiten komen dagelijks terug in het werken met de verschillende data sets.
+There is a lack of shared methodological understanding of how assumptions built into digitization processes and digital tools for gathering, selecting, cleaning and analysis align with or are taken into consideration by the scholars who use them or rely on them.
 
-## Doelstelling
+There are a number of initiatives to develop methodology for dealing with digital materials and methods in the humanities. Digital Source Criticism (Fickers 2013) deals with evaluating a digital source document or object, its creation, distribution and use. Digital Tool Criticism (Koolen et al. 2018) deals with evaluating the use of digital tools in research and understanding its role in the research process. Data Scopes (Hoekstra and Koolen 2018) deals with evaluating the transformations of digital data that are needed to address research questions with them.
 
-Het doel is onderzoekers zich bewust te laten worden van de verschillende aspecten van de omgang met grootschalige data. In de dagelijkse onderzoekspraktijk:
+Developments of new DH methods have challenges and consequences at three levels:
 
-- moeten onderzoekers toevlucht nemen tot handwerk waar geautomatiseerde methoden ze veel werk uit handen zouden kunnen nemen
+1.  the epistemological aspects of reaching a shared understanding within research communities, such that peers can critically assess and appreciate the data interactions in each other’s work,
 
-- hebben ze wel data verzameld, maar kunnen die niet zo vormgeven dat hun onderzoek ermee wordt bediend
+2.  documenting the research process in such a way that a scholar can critically reflect on this process, communicate about it transparently and where possible, share it for purposes of reflection, reuse and reproducibility, and
 
-- kunnen ze de data in hun database niet goed (genoeg) bevragen
+3. the incorporation of the documentation of the research process into the narrative of scholarly publications.
 
-- is het moeilijk de output van geavanceerde tools kritisch te beoordelen
+In this workshop we focus on the level of documentation, as we argue it is needed to deal with the challenges of the other two levels. The code underlying these tools contributes to interpretation (van Zundert 2018) whether the scholar using them is aware of this contribution or not. Documenting the research process, the tools and parameters used (also for the failed experiments and dead ends) allows us to discuss these contributions and their consequences for epistemology.
 
-Met data scopes willen we het volgende bereiken:
+The workshop will address a number of questions:
+1. What are ways of documenting? E.g. keeping research diaries, making screenshots and screencasts, putting datasets and analysis code in online repositories, keeping automatically generated transactions logs of tools (containing e.g. queries, clicks, selections and filters).
 
-- Inzicht in data verwerkingsproces: data verwerking is een essentieel en onlosmakelijk onderdeel van het onderzoek, en niet een noodzakelijk technisch proces waarna het echte onderzoek kan beginnen,
-- Transparantie van onderzoek: zorgen voor meer transparantie bij de totstandkoming van onderzoek dat gebaseerd is op de verwerking en analyse van grote en complexe hoeveelheden data
-- Methodologische discussie: consolideren van digitale methoden om te komen tot coherente en breed gedragen onderzoeksmethodologieën
+  - Balance between automated (disadvantage: no reflection) and manual documentation.
+  - Move from tools that support interactive data transformations towards interactive tools that build explicit strategies to document and execute such transformations repeatedly (Van Ossenbruggen et al. 2018, Cornacchia et al. 2017, http://OpenRefine.org)
+  - Jupyter Notebooks - example of unfolding non-linear process to linear process (Burton and van Zundert, under submission)
 
- In de workshop besteden we aandacht aan een systematische benadering van de omgang met data. We hanteren daarvoor het concept data scopes, dat is gericht op het proces van interactie tussen onderzoeker en data. We gebruiken datasets van het Huygens ING en vragen uit de onderzoekspraktijk.
+2. What is the purpose of documenting research?
+  - The individual interactions with tools and data are useful for reuse, reproducibility, and pedagogy, but less for presentation or argumentation and validation/reviewing.
+  - The interpretations, considerations and choices made are useful for argumentation and validation.
+3. What are current practices within DH and in other fields for documenting their research? What is documented and what is not?
+  - Look at what digital ethnographers do, e.g. reflect on own research process and its influence on interpretation.
+  - Look at our own projects: reaching a dead end, backtracking and insights gained at those points.
+  - Do we need to develop better vocabularies to document our research process at the right level of abstraction? E.g. when performing commonly used statistical tests, it typically suffices to refer to the name of the test used, without the need to explain the details of the underlying software that performed that test. We lack such commonly used procedures for many other data transformations, which forces us to document these transformations on an often boring and overly detailed level.
 
-Het programma is niet opgehangen aan tools, al gebruiken we die natuurlijk wel. We besteden wel aandacht aan een aantal basis computervaardigheden zoal:
 
-- omgaan met de command line
-- dataformaten en de omgang daarmee
-- een begrip van clients en servers
 
-## Programma
+### Workshop Format
 
-Datum: 2, 9, 16, 23 en 30 September (11:00-16:30)
-Locatie: 
+This full day workshop will combine theoretical discussion and experimental sessions in which participants and organisers try out and discuss ways of documenting.
 
-- Spinhuis 2.18 (2 September)
-- OIH NIAS zolder (9, 16, 23 en 30 September)
+**Session 1:** The workshop starts with a general introduction to the workshop and its aims, followed by presentations from a few invited speakers from different disciplines, e.g. ethnography, qualitative social science, human computer interaction and digital humanities, who will describe their documentation practices.
 
-De workshop bestaat iedere dag uit een inleiding en twee praktische sessies waarin de deelnemers zelf aan het werk gaan. We eindigen steeds met een discussie over hoe deze handelingen in de onderzoekspraktijk passen en interpretatie beïnvloeden. Hieronder een korte opsomming per dag en wat je er leert.
+**Session 2:** In the first experimental part, the workshop participants will work in small groups to examine and try to document previous research. The workshop organisers will pre-select and prepare materials for 1 or 2 published data-driven studies in which they were involved, so that they can provide missing information where possible.
 
-1. Inleiding Data Scopes en Patronen zoeken in een groot tekstcorpus (2 september).
-+ Corpus Tijdschrift voor Geschiedenis (alternatieven: boekrecensies, resoluties Staten Generaal)
-+ Vaardigheden:
-    + grip krijgen op grote tekstbestanden met grotendeels onbekende inhoud en grote variatie
-    + mogelijkheden om patronen te ontdekken
-    + gestructureerd omgaan met ongestructureerde data
-2. 'Metadata' en toegang tot een grootschalige tekstuele bron (9 september).
-+ Corpus Generale Missiven VOC
-+ Vaardigheden:
-    + Gebruik van bestaande indices voor ontsluiten van serie tekstuele bronnen
-    + Disambigueren van geografische en persoonsnamen
-    + Linken van data uit verschillende bronnen
-3. Serieel gebruik van samengestelde kwalitatieve bronnen voor structurele vragen (16 september).
-+ Corpus Biografisch portaal
-+ Vaardigheden:
-    + Data selectie
-    + Data structurering
-    + Segmentatie en stapsgewijze aanpak
-4. Werken met eigen data (16 t/m 30 september).
-+ Toepassen van data scopes concepten en vaardigheden op eigen datasets.
-+ Bespreken van ideeen, plannen en problemen voor bewerking en bevraging van eigen data.
-
-Elke week is er ruimte om eigen ideeen te bespreken, terug te komen op eerdere onderwerpen en aanvullende onderwerpen te belichten.
-
+**Session 3:** To wrap up the experimental part, groups will report their experiences and findings, which will be used as a basis for a collaborative publication. The workshop will conclude with a closing discussion about lessons learned and future directions.
 
 ## Instructors
 
 <ul>
-    <li><a href="https://www.researchgate.net/profile/Rik_Hoekstra">Rik Hoekstra</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
     <li><a href="http://marijnkoolen.com">Marijn Koolen</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
+    <li><a href="https://www.researchgate.net/profile/Rik_Hoekstra">Rik Hoekstra</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
+    <li>Andreas Fickers - </li> 
+    <li>Antske Fokkens - </li>
+    <li>Jasmijn van Gorp - </li>
+    <li>Jacco van Ossenbruggen - </li>
+
 </ul>
