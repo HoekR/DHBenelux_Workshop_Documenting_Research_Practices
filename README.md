@@ -63,6 +63,6 @@ This full day workshop will combine theoretical discussion and experimental sess
     <li>Andreas Fickers - </li> 
     <li>Antske Fokkens - </li>
     <li>Jasmijn van Gorp - </li>
-    <li>Jacco van Ossenbruggen - </li>
+    <li><a href="">Jacco van Ossenbruggen</a> - <a href="https://cwi.nl/">CWI</a> & <a href="https://cs.vu.nl/">VU</a></li>
 
 </ul>
