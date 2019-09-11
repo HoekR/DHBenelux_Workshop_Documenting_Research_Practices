@@ -2,9 +2,9 @@
 permalink: /
 ---
 
-## Workshop 1 - Documenting Research Practices in DH
-
 #### Digital Humanities Benelux 2019.
+
+## Workshop 1 - Documenting Research Practices in DH
 
 Organisers:
 + Marijn Koolen
