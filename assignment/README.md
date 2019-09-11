@@ -22,9 +22,9 @@ https://surfdrive.surf.nl/files/index.php/s/KJx9RfbPwSOeaj6 (the file is called 
 
 It is a selection from the data from the Biography Portal, that needs some cleanup before they can be processed into the overviews with which we will tackle the assignment. The RKD artists data have been excluded from the database in order to prevent pollution of the data with the findings from the newspaper article.
 
-The explanation of the data elaboration is [here](./assignment/toelichting.pdf)
+The explanation of the data elaboration is [here](./toelichting.pdf)
 
-For your convenience we have already put up a [Google Spreadsheet] (https://docs.google.com/spreadsheets/d/1LVnzU5trcKIv43FGfFMuJtAWqwCapbfanWpnmoUCEFU/edit?usp=sharing) at  with the rough data. Please note that it is read only and you have to make a copy to start editing.
+For your convenience we have already put up a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1LVnzU5trcKIv43FGfFMuJtAWqwCapbfanWpnmoUCEFU/edit?usp=sharing) at  with the rough data. Please note that it is read only and you have to make a copy to start editing.
 
 ## Proposed steps
 
