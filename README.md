@@ -83,7 +83,7 @@ This full day workshop will combine theoretical discussion and experimental sess
     <li><a href="http://marijnkoolen.com">Marijn Koolen</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
     <li><a href="https://www.researchgate.net/profile/Rik_Hoekstra">Rik Hoekstra</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
     <li><a href="https://www.cwi.nl/people/jacco-van-ossenbruggen">Jacco van Ossenbruggen</a> - <a href="https://www.cwi.nl/">CWI</a> & <a href="https://www.cs.vu.nl/">VU</a></li>
-    <li>Andreas Fickers - </li> 
-    <li>Antske Fokkens - </li>
-    <li>Jasmijn van Gorp - </li>
+    <li><a href="https://www.c2dh.uni.lu/people/andreas-fickers">Andreas Fickers</a> - <a href="https://www.c2dh.uni.lu/">Luxembourg Centre for Contemporary and Digital History</a></li> 
+    <li><a href="http://wordpress.let.vupr.nl/antske/">Antske Fokkens</a> - <a href="http://wordpress.let.vupr.nl/">Computational Lexicology &amp; Terminology Lab - VU University Amsterdam</a></li>
+    <li><a href="https://www.uu.nl/medewerkers/JvanGorp">Jasmijn van Gorp</a> - <a href="https://www.uu.nl/medewerkers/organogram/GW/8/96">Media and Performance Studies - Utrecht University</a></li>
 </ul>
