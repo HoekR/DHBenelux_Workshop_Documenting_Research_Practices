@@ -3,7 +3,7 @@
 ## Presentation
 
 This assignment for the DH Benelux 2019 Workshop "Documenting Research Practice in DH".
-It is about largely structured data, as these make it easier to illustrate and discuss the necessity to prepare them for analysis and the consequences of the various steps needed for data preparation. Data originate from the Dutch Biography Portal ([http://biografischportaal.nl]), that combines data from many sources. The data were partially cleaned.
+It is about largely structured data, as these make it easier to illustrate and discuss the necessity to prepare them for analysis and the consequences of the various steps needed for data preparation. Data originate from the Dutch Biography Portal (http://biografischportaal.nl), that combines data from many sources. The data were partially cleaned.
 
 ## The challenge - a newspaper article
 
