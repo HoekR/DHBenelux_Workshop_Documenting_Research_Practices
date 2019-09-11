@@ -76,6 +76,10 @@ This full day workshop will combine theoretical discussion and experimental sess
     + 16:30 - 17:15 General discussion and future steps
 
 
+Links:
++ [Collaborative notes](https://docs.google.com/document/d/1Sy52fFy2B5QkgyUI2NSKPVt4QZeozGvERs4-iiv631k/edit?usp=sharing)
++ [Workshop slides](https://docs.google.com/presentation/d/1gfTqrq5ScDQOdllGbX0mSD9iJJCtG8fFzyvxIhEcUm0/edit?usp=sharing)
+
 <a name="organisers"></a>
 ### Organisers
 
