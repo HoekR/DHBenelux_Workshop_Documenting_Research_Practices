@@ -22,6 +22,10 @@ https://surfdrive.surf.nl/files/index.php/s/KJx9RfbPwSOeaj6 (the file is called 
 
 It is a selection from the data from the Biography Portal, that needs some cleanup before they can be processed into the overviews with which we will tackle the assignment. The RKD artists data have been excluded from the database in order to prevent pollution of the data with the findings from the newspaper article.
 
+The explanation of the data elaboration is [here](./assignment/toelichting.pdf)
+
+For your convenience we have already put up a [Google Spreadsheet] (https://docs.google.com/spreadsheets/d/1LVnzU5trcKIv43FGfFMuJtAWqwCapbfanWpnmoUCEFU/edit?usp=sharing) at  with the rough data. Please note that it is read only and you have to make a copy to start editing.
+
 ## Proposed steps
 
 For this workshop we propose the following steps for cleaning and processing the data. To work with these data, you will need tools, for our purposes any spreadsheet like program will do.
@@ -83,3 +87,5 @@ _Issues_
     - what qualifications can we make regarding our conclusions - and can they still be considered valid
     - are there any other conclusions to draw than the original research questions
     - how representative are these data
+
+[link to spreadsheet](https://docs.google.com/spreadsheets/d/1WR5QVI96FJoZ5cWyMU1KYTbuEONrULl83V6CILCFzCY/edit?usp=sharing)
