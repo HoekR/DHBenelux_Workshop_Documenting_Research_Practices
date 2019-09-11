@@ -6,19 +6,12 @@ permalink: /
 
 ## Workshop 1 - Documenting Research Practices in DH
 
-Organisers:
-+ Marijn Koolen
-+ Rik Hoekstra
-+ Jacco van Ossenbruggen
-+ Andreas Fickers
-+ Antske Fokkens
-+ Jasmijn van Gorp
-
 Jump to:
 
 + [Background and Motivation](#background)
 + [Research Questions](#questions)
 + [Workshop Format and Schedule](#format)
++ [Workshop Organisers](#organisers)
 
 <a name="background"></a>
 ### Background and Motivation
@@ -83,7 +76,8 @@ This full day workshop will combine theoretical discussion and experimental sess
     + 16:30 - 17:15 General discussion and future steps
 
 
-## Organisers
+<a name="organisers"></a>
+### Organisers
 
 <ul>
     <li><a href="http://marijnkoolen.com">Marijn Koolen</a> - <a href="https://huc.knaw.nl/">KNAW Humanities Cluster</a> - Research and Development</li>
